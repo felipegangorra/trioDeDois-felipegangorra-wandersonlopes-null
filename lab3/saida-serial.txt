@@ -1,0 +1,6 @@
+Similarity between dataset/file.4 and dataset/file.3: 89.34845%
+Similarity between dataset/file.4 and dataset/file.2: 89.614525%
+Similarity between dataset/file.4 and dataset/file.1: 89.60213%
+Similarity between dataset/file.3 and dataset/file.2: 89.55063%
+Similarity between dataset/file.3 and dataset/file.1: 89.72324%
+Similarity between dataset/file.2 and dataset/file.1: 89.58305%
